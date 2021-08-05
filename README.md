@@ -21,7 +21,9 @@
 
 <br>
 
-  <img align="right" alt="GIF" height="120px" src="https://freight.cargo.site/w/1000/i/e995cdbeeaf928355de6243e6ec309e640589e2f8b2e5cbe0e7f4bc4f0284a2a/naruto_walk_GIF.gif"/>
+<img align="right" alt="GIF" height="120px" src="https://i0.wp.com/art.ngfiles.com/images/379000/379942_morganstedmanmsng_naruto-sprite-gif.gif?f1443890076"/>
+
+  <!--<img align="right" alt="GIF" height="120px" src="https://freight.cargo.site/w/1000/i/e995cdbeeaf928355de6243e6ec309e640589e2f8b2e5cbe0e7f4bc4f0284a2a/naruto_walk_GIF.gif"/>-->
   
   
   
