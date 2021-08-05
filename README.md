@@ -9,7 +9,8 @@
 <div style="margin-left: 50">
   <img align="center" alt="GIF" height="120px" src="https://static.wikia.nocookie.net/smashbroslawlorigins/images/5/5e/Mario_Kart_Mario.gif/revision/latest?cb=20140401130354"/>
   <img align="center" height="80" width="250" src="https://64.media.tumblr.com/tumblr_m9wkoi7Bfp1rfjowdo1_500.gif">
-  <img align="center" alt="GIF" height="120px" src="https://static.wikia.nocookie.net/smashbroslawlorigins/images/5/5e/Mario_Kart_Mario.gif/revision/latest?cb=20140401130354"/>
+  <img align="center" alt="GIF" height="120px" src="https://vignette.wikia.nocookie.net/mariokart/images/3/35/LuigiRotating.gif/revision/latest/top-crop/width/220/height/220?cb=20191118221118"/>
+  <!-- <img align="center" alt="GIF" height="120px" src="https://static.wikia.nocookie.net/smashbroslawlorigins/images/5/5e/Mario_Kart_Mario.gif/revision/latest?cb=20140401130354"/> -->
   
 </div>
 
