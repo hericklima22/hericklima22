@@ -12,7 +12,7 @@
   <img align="center" alt="GIF" height="120px" src="https://www.superluigibros.com/images/supermariokart_gifs/yoshi.gif"/>
   <img align="center" alt="GIF" height="120px" src="https://www.superluigibros.com/images/supermariokart_gifs/princesstoadstool.gif"/>
   <img align="center" alt="GIF" height="120px" src="https://www.superluigibros.com/images/supermariokart_gifs/bowser.gif"/>
-  <img align="center" alt="GIF" height="120px" src="https://www.superluigibros.com/images/supermariokart_gifs/koopatroopasmall.gif"/>
+ 
   
   <!-- <img align="center" height="80" width="250" src="https://64.media.tumblr.com/tumblr_m9wkoi7Bfp1rfjowdo1_500.gif"> -->
   <!-- <img align="center" alt="GIF" height="120px" src="https://static.wikia.nocookie.net/smashbroslawlorigins/images/5/5e/Mario_Kart_Mario.gif/revision/latest?cb=20140401130354"/> -->
