@@ -41,6 +41,16 @@ Helloo, my name is Herick, i'm a software engineering student and passionate abo
   </div>
 </p>
 
-
+<p>
+  <h3 align="center">
+    <b>Some Projects I Have Participed 🧑‍💻</b>
+  </h3>
+  <div align="center">
+    <a href="https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App"> Multilind-Mobile 📱</a>
+    <a href="https://github.com/fga-eps-mds/2021.1-Multilind-admin-website"> Multilind-Web 💻</a>
+    <a href="https://github.com/hericklima22/grupo11-Universo-Marvel"> Ballerini Dev Meet 📱</a>
+    <a href="https://github.com/hericklima22/grupo11-Universo-Marvel"> Marvel SQL game 💻</a>
+  </div>
+</p>
 
 
