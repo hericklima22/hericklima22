@@ -58,11 +58,11 @@ Helloo, my name is Herick, i'm a software engineering student at UnB and passion
   <h3 align="center">
     <b>My Social Medias 💻</b>
   </h3>
-  <a href="https://www.linkedin.com/in/herick-lima-5b387b205/" target="_blank">
+  <a href="https://www.linkedin.com/in/herick-lima-5b387b205/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/herick-lima-5b387b205/" target="_blank">
+  <a href="https://www.instagram.com/sooherick/">
     <img src="https://img.shields.io/badge/-instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <br>
