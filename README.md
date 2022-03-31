@@ -53,4 +53,7 @@ Helloo, my name is Herick, i'm a software engineering student and passionate abo
   </div>
 </p>
 
-![Snake animation](https://github.com/hericklima22/hericklima22/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  ![Snake animation](https://github.com/hericklima22/hericklima22/blob/output/github-contribution-grid-snake.svg)
+</div>
+
