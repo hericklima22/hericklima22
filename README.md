@@ -2,14 +2,14 @@
   <b>Herick Lima</b>
 </h1>
 
-Opaaa, olaaá eu sou o Herick, um estudante de engenharia software apaixonado pela programação! Atualmente moro no Brasil mas sonho em ir para o Canadá um dia...
+Olaaá eu sou o Herick, um estudante de engenharia software apaixonado pela programação! Atualmente moro no Brasil mas sonho em ir para o Canadá um dia...
 <br>
 Helloo, my name is Herick, i'm a software engineering student and passionate about programming! Currently living in Brazil, but I plan to move to Canada one day...
 <br>
 
 <p>
   <h3 align="center">
-    <b>Principais Tecnologias</b>
+    <b>Main Technologies</b>
   </h3>
   <div align="center">
     <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
@@ -23,7 +23,7 @@ Helloo, my name is Herick, i'm a software engineering student and passionate abo
 
 <p>
   <h3 align="center">
-    <b>Outras Tecnologias</b>
+    <b>Other Technologies</b>
   </h3>
   <div align="center">
     <img src="https://img.shields.io/badge/-C-2571b0?style=for-the-badge&logo=c&logoColor=2571b0&labelColor=282828">
@@ -32,3 +32,15 @@ Helloo, my name is Herick, i'm a software engineering student and passionate abo
     <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
   </div>
 </p>
+<p>
+  <h3 align="center">
+    <b>My Stats</b>
+  </h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hericklima22&theme=blue-green">
+  </div>
+</p>
+
+
+
+
