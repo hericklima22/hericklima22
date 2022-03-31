@@ -53,4 +53,4 @@ Helloo, my name is Herick, i'm a software engineering student and passionate abo
   </div>
 </p>
 
-
+![Snake animation]()
