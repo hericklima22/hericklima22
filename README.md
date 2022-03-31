@@ -2,9 +2,9 @@
   <b>Herick Lima</b>
 </h1>
 
-Olaaá eu sou o Herick, um estudante de engenharia software apaixonado pela programação! Atualmente moro no Brasil mas sonho em ir para o Canadá um dia...
+Olaaá eu sou o Herick, estudante de engenharia software na Universidade de Brasília e apaixonado pela programação! Atualmente moro no Brasil mas sonho em ir para o Canadá um dia...
 <br>
-Helloo, my name is Herick, i'm a software engineering student and passionate about programming! Currently living in Brazil, but I plan to move to Canada one day...
+Helloo, my name is Herick, i'm a software engineering student at UnB and passionate about programming! Currently living in Brazil, but I plan to move to Canada one day...
 <br>
 
 <p>
@@ -54,6 +54,18 @@ Helloo, my name is Herick, i'm a software engineering student and passionate abo
 </p>
 
 <div align="center">
-  ![Snake animation](https://github.com/hericklima22/hericklima22/blob/output/github-contribution-grid-snake.svg)
+  
+  <h3 align="center">
+    <b>My Social Medias 💻</b>
+  </h3>
+  <a href="https://www.linkedin.com/in/herick-lima-5b387b205/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/herick-lima-5b387b205/" target="_blank">
+    <img src="https://img.shields.io/badge/-instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <br>
+  <img src="https://github.com/hericklima22/hericklima22/blob/output/github-contribution-grid-snake.svg">
 </div>
 
