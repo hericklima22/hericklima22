@@ -50,6 +50,7 @@ Helloo, my name is Herick, i'm a software engineering student at UnB and passion
     <a href="https://github.com/fga-eps-mds/2021.1-Multilind-admin-website"> Multilind-Web 💻</a>
     <a href="https://github.com/hericklima22/grupo11-Universo-Marvel"> Ballerini Dev Meet 📱</a>
     <a href="https://github.com/hericklima22/grupo11-Universo-Marvel"> Marvel SQL game 💻</a>
+  <a href="https://github.com/FGAUnB-REQ-GM/2021.2-PetSpotters"> PetSpotters 📱</a>
   </div>
 </p>
 
