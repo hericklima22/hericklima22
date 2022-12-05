@@ -28,7 +28,7 @@ Helloo, my name is Herick, i'm a software engineering student at UnB and passion
     <img src="https://img.shields.io/badge/-CSS-2571b0?style=for-the-badge&logo=css3&logoColor=2571b0&labelColor=282828">
     <img src="https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
     <img src="https://img.shields.io/badge/-javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F&labelColor=282828">
-    <img src="https://img.shields.io/badge/-java-f89820?style=for-the-badge&logo=java&logoColor=f89820&labelColor=282828">
+    <img src="https://img.shields.io/badge/-java-f89820?style=for-the-badge&logo=oracle&logoColor=f89820&labelColor=282828">
     <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=282828">
   </div>
 </p>
